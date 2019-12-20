@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_GSL/kubernetes/test/availability-gsl.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_GSL/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_OSL/availability-osl-api-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_OSL/availability-osl-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_OSL/availability-osl-api/src/main/java/com/fieldcode/availability/resource/AvailabilityResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_OSL/availability-osl-main/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Availability/Availability_OSL/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/CommonParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/configuration/BaseGslRouteBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/configuration/MissionGslRoute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/configuration/ResourceAvailabilityMissionGslRoute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/configuration/RouteMissionGslRoute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/configuration/StartEndLocationMissionGslRoute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/persistence/enity/Mission.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/persistence/enity/MissionEventMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/java/com/fieldcode/micros/missiongsl/service/RouteMissionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/resources/application-cicd.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_GSL/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_OSL/mission-osl-main/src/main/resources/application-dev.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MissionService_OSL/mission-osl-main/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ConsumerDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ConsumerDemoAssignAndSeek.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ConsumerDemoGroups.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ConsumerDemoWithThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ConsumerDemoWithThreads.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ProducerDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ProducerDemoKeys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/stefk/kafka/tutorial1/ProducerDemoWithCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../PredictiveTravelService_GSL/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../PredictiveTravelService_GSL/src/main/java/com/fieldcode/predictivetravel/service/PredictiveTravelService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
